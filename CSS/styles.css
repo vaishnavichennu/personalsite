@@ -1,0 +1,26 @@
+body{
+background-color: #e4f9ff;
+}
+hr{
+
+  border-color: grey;
+  border-style: none;
+  border-top-style:dotted;
+  border-width:5px;
+  width: 10%;
+}
+h1{
+  color: #706c61;
+}
+h3{
+  color: #655c56;
+}
+h2{
+  color: #655c56;
+}
+input, textarea {
+  width : 150px;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
